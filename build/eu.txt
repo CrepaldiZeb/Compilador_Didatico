@@ -1,0 +1,19 @@
+
+programa test1;
+
+var a, b, c: inteiro;
+        z : booleano;
+
+inicio
+
+enquanto z 
+faca
+    inicio
+    leia(a);
+    leia(b);
+    fim
+
+leia(a);
+
+fim.
+

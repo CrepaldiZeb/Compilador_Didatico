@@ -1,0 +1,20 @@
+programa test2;
+
+
+var a, x: inteiro;
+z: booleano;
+
+inicio
+leia(a);
+enquanto z 
+faca 
+    inicio
+    leia(a);
+    escreva(a);
+    leia(a)
+    fim;
+
+leia(a);
+escreva(a)
+
+fim.
